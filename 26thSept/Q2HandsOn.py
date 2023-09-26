@@ -1,0 +1,6 @@
+print("B B          MM       MM")
+print("B   B        MM M   M MM")
+print("B B          MM   M   MM")
+print("B   B        MM       MM")
+print("B   B        MM       MM")
+print("B B          MM       MM")
