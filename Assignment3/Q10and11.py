@@ -4,7 +4,7 @@ def gcd(a,b):
     return a
 
 def lcm(a,b):
-    return (a*B)//gcd(a,b)
+    return (a*b)//gcd(a,b)
 
 a = int(input('Enter a num: '))
 b = int(input('Enter a num: '))
